@@ -15,7 +15,7 @@ body {
 	@extend %extend1;
 	font-family: $font1;
 	@include font-rem($doc-font-size);
-	color: $color_tuatara;
+	color: $white;
 	background-color: $bodycolor;
 	background-position: center center;
 	background-attachment: fixed;
@@ -104,7 +104,7 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: 4rem auto;
-	background: $white;
+	background: rgba($black,0.3);
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
@@ -120,7 +120,7 @@ body {
 	width: 75%;
 	max-width: 850px;
 	margin: -3rem auto 4rem;
-	background: $white;
+	background: rgba($black,0.3);
 	color: $color_tuatara;
 	padding: 2em;
 	border-radius: 3px;
