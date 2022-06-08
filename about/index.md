@@ -10,7 +10,7 @@ comments: false
 
 ## Important!
 
-* The group is rated PG-16
+* The group is rated PG-18
 * Potentially strong language
 * Dark themes
 * Violence
@@ -18,10 +18,10 @@ comments: false
 ## Preview
 
 {% capture images %}
-    https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9cdd437a-49dd-4059-9316-88bc15a6d4f9/df0bewl-aed30418-103c-47c9-830e-3714f300663a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzljZGQ0MzdhLTQ5ZGQtNDA1OS05MzE2LTg4YmMxNWE2ZDRmOVwvZGYwYmV3bC1hZWQzMDQxOC0xMDNjLTQ3YzktODMwZS0zNzE0ZjMwMDY2M2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._HhYx3-qimMPe_VZ5c2BuQB7Mb3pYtheg2CuriK7-rg
-    https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9619d26f-f243-49f6-88d0-62e2c57ed110/dekcsma-b2877800-9a60-44cd-b567-c24dcff046c7.jpg/v1/fill/w_1024,h_574,q_75,strp/_pr__meeting_of_magicians_by_shikaama_dekcsma-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc0IiwicGF0aCI6IlwvZlwvOTYxOWQyNmYtZjI0My00OWY2LTg4ZDAtNjJlMmM1N2VkMTEwXC9kZWtjc21hLWIyODc3ODAwLTlhNjAtNDRjZC1iNTY3LWMyNGRjZmYwNDZjNy5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8Jg-UmgUc6n74Vxe01jdcrk4qhunk9m6cao0X9NwYTg
+    https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8f58e5a-673a-4968-af6a-8b52941e29fa/da18op8-3cb7b354-676a-4d3b-9bc5-5f93e95541d9.png/v1/fill/w_1024,h_782,strp/_pr____severo_by_tashea_da18op8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzgyIiwicGF0aCI6IlwvZlwvYThmNThlNWEtNjczYS00OTY4LWFmNmEtOGI1Mjk0MWUyOWZhXC9kYTE4b3A4LTNjYjdiMzU0LTY3NmEtNGQzYi05YmM1LTVmOTNlOTU1NDFkOS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SAP1KJoiYNihyyeY2KNkzd7Tlo1dKevuJaMlYZfUNL4
+    https://www.deviantart.com/tashea/art/Project-Revelation-Asael-826459779
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of the group" cols=2 %}
+{% include gallery images=images caption="Screenshots of the group testing" cols=2 %}
 
 
 
