@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the group
-tags: [about, Jekyll, theme, moon]
+tags: [about]
 date: 2016-03-21
 comments: false
 ---
