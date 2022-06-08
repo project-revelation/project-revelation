@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "A Post with Images"
-date: 2013-05-22
-excerpt: "Examples and code for displaying images in posts."
-tags: [sample post, images, test]
+title: "Severo"
+date: 2022-06-08
+excerpt: "Example using Severo as the test"
+tags: [sample post, images, test,Severo]
 comments: true
 ---
 
