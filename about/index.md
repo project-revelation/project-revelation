@@ -19,6 +19,7 @@ comments: false
 
 {% capture images %}
     https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8f58e5a-673a-4968-af6a-8b52941e29fa/da18op8-3cb7b354-676a-4d3b-9bc5-5f93e95541d9.png/v1/fill/w_1024,h_782,strp/_pr____severo_by_tashea_da18op8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.
+    https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8f58e5a-673a-4968-af6a-8b52941e29fa/da18op8-3cb7b354-676a-4d3b-9bc5-5f93e95541d9.png/v1/fill/w_1024,h_782,strp/_pr____severo_by_tashea_da18op8-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of the group testing" cols=2 %}
 
