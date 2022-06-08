@@ -76,7 +76,7 @@ body {
 	padding-left: 15px;
 	@include center-block();
 	background-color: rgba($black,0.3);
-	color: $colour_shark;
+	color: $white !important;
 	z-index: 1;
 	border-radius: 3px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
@@ -105,7 +105,7 @@ body {
 	max-width: 850px;
 	margin: 4rem auto;
 	background: rgba($black,0.3);
-	color: $color_tuatara;
+	color: $white !important;
 	padding: 2em;
 	border-radius: 3px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
@@ -121,7 +121,7 @@ body {
 	max-width: 850px;
 	margin: -3rem auto 4rem;
 	background: rgba($black,0.3);
-	color: $color_tuatara;
+	color: $white !important;
 	padding: 2em;
 	border-radius: 3px;
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
