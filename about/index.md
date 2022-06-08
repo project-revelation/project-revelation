@@ -31,4 +31,9 @@ https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a8f58e5a-673a-4968-af6
 "A click on the image links to its own URL (inline-style).")
 ](https://www.deviantart.com/tashea/art/PR-Severo-606746636)
 
+## Pixel boy
 
+[![Sevey pixel](
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/477c17cf-5c30-435a-8ccb-43bc23664098/dao7yh5-f3abeb51-4627-45da-9a55-52ef4c322ce4.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNDc3YzE3Y2YtNWMzMC00MzVhLThjY2ItNDNiYzIzNjY0MDk4XC9kYW83eWg1LWYzYWJlYjUxLTQ2MjctNDVkYS05YTU1LTUyZWY0YzMyMmNlNC5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.-6LYdLNXuZS3Tz2MUxrGjWElS0hKlZsSulva67XkHYo
+"A click on the image links to its own URL (inline-style).")
+](https://www.deviantart.com/tashea/art/PR-Severo-606746636)
